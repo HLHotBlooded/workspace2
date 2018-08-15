@@ -8,6 +8,14 @@ package com.lin.yc;
  **/
 public class yc {
  public static void main(String[] args) {
-  System.out.println("hello,YC!");
+  for (int i = 0; i <100 ; i++) {
+
+
+
+   System.out.println("hello,YC!");
+   System.out.println("hello,YC!");
+   System.out.println("hello,YC!");
+  }
+
  }
 }
